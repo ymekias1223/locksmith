@@ -1,0 +1,37 @@
+{
+  "name": "locksmith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "locksmith.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymekias1223/locksmith.git"
+  },
+  "keywords": [
+    "enryption",
+    "sha3",
+    "secure",
+    "message",
+    "hash",
+    "password",
+    "secure",
+    "passphrase",
+    "javascript",
+    "security"
+  ],
+  "author": "yusuf mekias <yusuf.mekias@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymekias1223/locksmith/issues"
+  },
+  "homepage": "https://github.com/ymekias1223/locksmith#readme",
+  "dependencies": {
+    "base-conversion": "^3.3.0",
+    "binary-to-string": "^0.1.2",
+    "string-to-binary": "^0.1.2",
+    "validate.io-binary-string": "^1.0.0"
+  }
+}
